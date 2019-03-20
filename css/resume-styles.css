@@ -1,0 +1,42 @@
+.header {
+  text-align: center;
+  font-family: cursive;
+  font-style: italic;
+  font-weight: 600;
+}
+
+div.header h1 {
+  font-size: 50px;
+}
+
+div.header h2 {
+  font-size: 30px;
+}
+
+h3 {
+  font-family: cursive;
+}
+
+body {
+  background-color: pink;
+}
+
+span {
+  font-weight: 600;
+}
+
+.emphasis1 {
+  font-family: fantasy;
+}
+
+.emphasis2 {
+  font-family: monospace;
+}
+
+.emphasis3 {
+  font-family: inherit;
+}
+
+.list {
+color: red;
+}
