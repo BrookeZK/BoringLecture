@@ -6,19 +6,19 @@ h1 {
   font-style: italic;
 }
 
+h2.intro {
+  font-weight: bold;
+  font-size: 250px;
+}
+
 .intro {
   font-family: monospace;
   text-align: center;
 }
 
-h2.intro {
-  font-weight: bold;
-  font-size: 25px;
-}
-
 p.intro {
   font-style: italic;
-  font-size: 20px;
+  font-size: 200px;
 }
 
 img.intro {
@@ -44,4 +44,8 @@ h3 {
 .textbody{
   padding-left: 2%;
   padding-right: 2%;
+}
+
+.important {
+  font-weight: bold;
 }
