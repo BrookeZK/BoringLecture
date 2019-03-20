@@ -1,0 +1,47 @@
+h1 {
+  font-size: 50px;
+  text-align: center;
+  color: grey;
+  font-family: cursive;
+  font-style: italic;
+}
+
+.intro {
+  font-family: monospace;
+  text-align: center;
+}
+
+h2.intro {
+  font-weight: bold;
+  font-size: 25px;
+}
+
+p.intro {
+  font-style: italic;
+  font-size: 20px;
+}
+
+img.intro {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: 60%;
+  padding: 10%;
+  border: 6px dotted #d895ed;
+}
+
+body {
+  background-color: darkgrey;
+  border: 6px dotted grey;
+  margin: 10%;
+  margin-top: 5%;
+}
+
+h3 {
+  padding-left: 2%;
+}
+
+.textbody{
+  padding-left: 2%;
+  padding-right: 2%;
+}
